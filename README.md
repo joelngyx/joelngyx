@@ -3,6 +3,7 @@
 ### I'm Joel. 
 I'm interested in software development, and I enjoy working on applications that at least I would find useful.
 
+- I'm interested in Software Engineering/Software Development/Front End Development/Full Stack Development roles.
 - I've interned as a software developer at Thales Solutions Asia and Tusitala Books.
 - I'm currently building my portfolio site as I try to brush up my CSS skills.
 
