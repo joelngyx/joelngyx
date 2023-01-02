@@ -1,7 +1,7 @@
 ![](https://media2.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47ub6oglsql7ikaknlvq2m1g39g5rdnrodsgyevxmf&rid=giphy.gif&ct=g)
 
 ### I'm Joel. 
-I'm interested in software development, and I enjoy working on applications that at least I would find useful.
+I'm interested in software development, and I enjoy working on applications that could be useful to myself, and others.
 
 - I'm interested in Software Engineering/Software Development/Front End Development/Full Stack Development roles.
 - I've interned as a software developer at Thales Solutions Asia and Tusitala Books.
