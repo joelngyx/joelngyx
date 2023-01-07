@@ -5,7 +5,7 @@ I'm interested in software development, and I enjoy working on applications that
 
 - I'm interested in Software Engineering/Software Development/Front End Development/Full Stack Development roles.
 - I've interned as a software developer at Thales Solutions Asia and Tusitala Books.
-- I'm currently trying to learn about JSON Web Tokens (JWT).
+- I'm currently learning about JSON Web Tokens (JWT).
 
 <!--
 **joelngyx/joelngyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
