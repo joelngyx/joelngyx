@@ -3,9 +3,9 @@
 ### I'm Joel. 
 I'm interested in software development, and I enjoy working on applications that could be useful to myself, and others.
 
-- I'm interested in Software Engineering/Software Development/Front End Development/Full Stack Development roles.
-- I've interned as a software developer at Thales Solutions Asia and Tusitala Books.
-- I'm currently learning about JSON Web Tokens (JWT).
+- Currently a System Analyst at PSA Corporation
+- Interested in all things tech - software development, best practices, architecture.
+- Interned as a software developer at Thales Solutions Asia and Tusitala Books.
 
 <!--
 **joelngyx/joelngyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
