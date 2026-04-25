@@ -3,7 +3,7 @@
 ### I'm Joel. 
 I'm interested in software development, and I enjoy working on applications that could be useful to myself, and others.
 
-- Currently a System Analyst at PSA Corporation
+- Currently a Senior Systems Analyst at PSA Corporation
 - Interested in all things tech - software development, best practices, architecture.
 - Interned as a software developer at Thales Solutions Asia and Tusitala Books.
 
